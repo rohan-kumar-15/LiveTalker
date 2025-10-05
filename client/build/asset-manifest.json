@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d78e2bfb.css",
+    "main.js": "/static/js/main.73e23252.js",
+    "static/js/453.a3c1d153.chunk.js": "/static/js/453.a3c1d153.chunk.js",
+    "static/media/liveserver-chat-app-background.jpg": "/static/media/liveserver-chat-app-background.b1aafabda9af65de03d1.jpg",
+    "index.html": "/index.html",
+    "main.d78e2bfb.css.map": "/static/css/main.d78e2bfb.css.map",
+    "main.73e23252.js.map": "/static/js/main.73e23252.js.map",
+    "453.a3c1d153.chunk.js.map": "/static/js/453.a3c1d153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d78e2bfb.css",
+    "static/js/main.73e23252.js"
+  ]
+}
